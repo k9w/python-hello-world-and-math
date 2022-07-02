@@ -1,0 +1,8 @@
+
+print("I like OpenBSD.")
+
+# Demonstrate indentation and basic math.
+x = 1
+if x == 1:
+    # Indent four spaces.
+    print("x is 1.")
